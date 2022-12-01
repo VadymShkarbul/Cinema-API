@@ -28,11 +28,11 @@ pip install -r requirements.txt
 ```
 ```bash
 # set your ENV variables
-set DB HOST=<your db hostname>
+set DB_HOST=<your db hostname>
 set DB_NAME=<your db name>
-set DB USER=<your db username>
-set DB PASSWORD=<vour db user password>
-set SECRET KEY=<your secret key>
+set DB_USER=<your db username>
+set DB_PASSWORD=<vour db user password>
+set SECRET_KEY=<your secret key>
 ```
 ```bash
 # run migrations and server
